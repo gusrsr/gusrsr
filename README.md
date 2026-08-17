@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [My first web project using HTML, CSS and JavaScript](https://github.com/gusrsr/primeiraAtvJS)</p>
+<p align="left">- 🔭 I’m currently working on [My first web project using HTML, CSS and JavaScript</p>
 
 ###
 
@@ -77,15 +77,6 @@
 <h2 align="left">Stats</h2>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusrsr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusrsr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusrsr&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
