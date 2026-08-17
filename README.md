@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [My first web project using HTML, CSS and JavaScript</p>
+<p align="left">- 🔭 I’m currently working on [My first web project using HTML, CSS and JavaScript]</p>
 
 ###
 
