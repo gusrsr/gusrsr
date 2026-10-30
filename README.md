@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <samp>DEVELOPER IN PROGRESS · BRAZIL · LINUX USER</samp>
+  <samp>DEVELOPER IN PROGRESS · BRAZIL</samp>
 </p>
 
 ---
